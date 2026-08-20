@@ -1,5 +1,19 @@
 [
     {
+      "name": "airberlin   ",
+      "iata": "AB",
+      "icao": "BER",
+      "country": "DE",
+      "flag_carrier": false,
+      "website": "https://airberlin.com",
+      "alliance": oneworld,
+      "branding": {
+        "primary_color": "#cc2234"
+      },
+      "slug": "air-berlin"
+    }
+    
+    {
         "name": "Aegean Airlines",
         "iata": "A3",
         "icao": "AEE",
